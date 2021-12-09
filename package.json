@@ -1,0 +1,10 @@
+{
+  "name": "projeto-growth",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kelvin Seibt <kelvin.seibt@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^12.0.1"
+  }
+}
